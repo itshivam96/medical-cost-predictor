@@ -14,10 +14,10 @@ Author Brand: Shivam Kumar
 
 <!-- 🎖️ BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Brand-Your_Name-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Brand-Shivam_Kumar-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Version-1.0.0-00b894?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/<your_repo>?style=for-the-badge&color=yellow" />
-  <img src="https://img.shields.io/github/forks/<your_repo>?style=for-the-badge&color=teal" />
+  <img src="https://img.shields.io/github/stars/medical-cost-predictor?style=for-the-badge&color=yellow" />
+  <img src="https://img.shields.io/github/forks/medical-cost-predictor?style=for-the-badge&color=teal" />
   <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Framework-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-3498db?style=for-the-badge" />
@@ -119,7 +119,7 @@ medical-cost-predictor/
 <details><summary><h3>📥 Clone & Install</h3></summary>
 
 ```bash
-git clone https://github.com/<your_repo>.git
+git clone https://github.com/medical-cost-predictor.git
 cd medical-cost-predictor
 pip install -r requirements.txt
 ```
@@ -162,7 +162,7 @@ App will open automatically at:
 Retrain the model using your own dataset + hyperparameter tuning.
 
 ```python
-joblib.dump(model, "model/insurance_model.pkl")
+joblib.dump(model, "model/random_forest_model.pkl")
 ```
 
 ---
@@ -183,8 +183,8 @@ Absolutely — dataset included.
 # 🎖️ GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=<itshivam96>&show_icons=true&theme=radical" width="50%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=<itshivam96>&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=itshivam96&show_icons=true&theme=radical" width="50%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itshivam96&theme=radical" width="48%">
 </p>
 
 ---
